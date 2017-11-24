@@ -2,6 +2,7 @@
     First version of star wars name generator
 */
 const readline = require('readline');
+const prompt = require('prompt');
 
 var firstName = 'Omar';
 var lastName = 'Lopez';
